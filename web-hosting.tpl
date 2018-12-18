@@ -77,7 +77,7 @@
               <span>+ KDV / aylık</span>
             </div>
           </div>
-          <a href="#" data-toggle="modal" data-target="#baslangicSiparis" class="yesil-buton btn-block text-center"><i class="fa fa-shopping-cart"></i> Sipariş Ver</a>
+          <a href="#" data-toggle="modal" data-target="#" class="yesil-buton btn-block text-center"><i class="fa fa-shopping-cart"></i> Sipariş Ver</a>
         </div>
       </li>
       <li>
@@ -135,7 +135,7 @@
               <span>+ KDV / aylık</span>
             </div>
           </div>
-          <a href="#" data-toggle="modal" data-target="#hesapliSiparis" class="yesil-buton btn-block text-center"><i class="fa fa-shopping-cart"></i> Sipariş Ver</a>
+          <a href="#" data-toggle="modal" data-target="#" class="yesil-buton btn-block text-center"><i class="fa fa-shopping-cart"></i> Sipariş Ver</a>
         </div>
       </li>
       <li>
@@ -193,7 +193,7 @@
               <span>+ KDV / aylık</span>
             </div>
           </div>
-          <a href="#" data-toggle="modal" data-target="#profesyonelSiparis" class="yesil-buton btn-block text-center"><i class="fa fa-shopping-cart"></i> Sipariş Ver</a>
+          <a href="#" data-toggle="modal" data-target="#" class="yesil-buton btn-block text-center"><i class="fa fa-shopping-cart"></i> Sipariş Ver</a>
         </div>
       </li>
     </ul>

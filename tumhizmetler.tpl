@@ -1,6 +1,17 @@
 <div class="tumHizmetler">
   <ul class="nav-justified">
     <li>
+	<ul class="dmMenu">
+        <li class="title">Oyun Sunucuları</li>
+        <li><a href="{$WEB_ROOT}/minecraft.php">Minecraft Sunucuları</a></li>
+		<li><a href="{$WEB_ROOT}/insurgency.php">Insurgency Sunucuları</a></li>
+		<li><a href="{$WEB_ROOT}/rust.php">Rust Sunucuları </a></li>
+		<li><a href="{$WEB_ROOT}/csgo.php">Counter Strike Global Offensive</a></li>
+		<li><a href="{$WEB_ROOT}/garrys.php">Garry's Mod</a></li>
+		<li><a href="{$WEB_ROOT}/teamfortress.php">Team Fortress 2</a></li>
+		<li><a href="{$WEB_ROOT}/teamspeak.php">Team Speak 3</a></li>
+		<li><a href="{$WEB_ROOT}/mumble.php">Mumble Sunucuları</a></li>
+      </ul>
       <ul class="dmMenu">
         <li class="title">Hosting</li>
         <li><a href="{$WEB_ROOT}/web-hosting.php">Limitsiz cPanel Hosting</a></li>
